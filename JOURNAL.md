@@ -9,7 +9,7 @@ Created On: 8/5/2025
 
 We followed cherry amazing workshop and learned about easyeda and how it kinda works and started the schematic of the project.
 
-[insert pictures of what you're working on!]
+<img width="1344" height="774" alt="Image" src="https://github.com/user-attachments/assets/a107a7a6-3ff7-4ace-aee6-5a2359a99819" />
 
 **Total time spent: 1h**
 
